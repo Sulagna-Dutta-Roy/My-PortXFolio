@@ -5,7 +5,8 @@ const links = ["home", "about", "projects", "resume", "blogs"];
 const Navbar = () => (
   <nav className="navbar">
     <div className="navbar-container">
-      <h1 className="logo"></h1>
+      <h1 className="logo">ShowMeCase</h1>
+      {/* Navigation Links */}
       <ul className="nav-links">
         {links.map((link) => (
           <li key={link} className="nav-item">
@@ -20,3 +21,4 @@ const Navbar = () => (
 );
 
 export default Navbar;
+
