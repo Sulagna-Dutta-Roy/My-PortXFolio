@@ -1,4 +1,4 @@
-# 💼 My-PortXFolio
+# 💼 ShowCaseMe
 
 A stylish and minimal developer portfolio built with **React**, **Vite**, and **Tailwind CSS** — perfect for showcasing your work and skills in hackathons and beyond.
 
